@@ -19,7 +19,7 @@ To answer that, I analyzed an industry-wide dataset capturing global trends in:
 Using **Power BI**, I transformed raw survey data into dynamic dashboards that help decode how education, skills, and environment influence a data professional’s journey.
 
 
-
+----------
 ## 📊 Key Insights & Visual Highlights
 
 ### 🌍 Geographic Impact on Salaries
@@ -44,13 +44,12 @@ Using **Power BI**, I transformed raw survey data into dynamic dashboards that h
 - Knowledge of Python = leverage in negotiations.
 
 
-
+---------
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI** – for data modeling and dashboard creation  
 - **Excel** – for preliminary data cleaning and structuring  
 - **Survey Dataset** – covering 60+ countries, multiple roles, languages, and education levels
-
 
 
 ## 📌 Takeaways for Aspiring & Current Data Professionals
@@ -61,7 +60,7 @@ Using **Power BI**, I transformed raw survey data into dynamic dashboards that h
 ✅ Learn **Python**—it’s more than a language; it’s an asset.  
 ✅ Monitor **job satisfaction** as much as your paycheck—both matter for a sustainable career.
 
-
+----------
 
 ## 🚀 What’s Next?
 
@@ -71,10 +70,9 @@ I’ll be sharing the interactive dashboard and a full insights breakdown soon. 
 💬 Let’s connect for insights, guidance, or collaboration.
 
 
-
 ## 📎 Files Included
 
-- `dashboard.pbix` – Power BI dashboard  
+- `dashboard.png` – Power BI dashboard  
 - `Insights_Documentation.pdf` – Key interpretations & conclusions  
 - `README.md` – This documentation  
 - `SurveyData.xlsx` – Cleaned dataset used in this analysis

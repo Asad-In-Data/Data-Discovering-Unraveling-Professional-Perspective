@@ -81,3 +81,11 @@ I’ll be sharing the interactive dashboard and a full insights breakdown soon. 
 
 **#DataAnalytics #SalaryTrends #PowerBI #Python #DataCareers #JobSatisfaction #RemoteWork #CareerGuidance**
 
+**Asad Analyst**  
+[GitHub @Asad-In-data](https://github.com/Asad-In-Data)  
+Email: asadalich56@gmail.com
+
+---
+
+> **© 2025 AsadInData - Data Discovering**
+
